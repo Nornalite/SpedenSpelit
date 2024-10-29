@@ -20,15 +20,14 @@ Randomised buttons light up at an ever increasing pace and the player has to sla
 In addition we added a simple soundtrack, and eye lights and messages that ramp up as your score increases.
 
 ## Evidence
-### Demo on YouTube  
+#### Demo on YouTube  
 
 [![Demo](https://img.youtube.com/vi/NqiS4Us_Nrs/0.jpg)](https://www.youtube.com/watch?v=NqiS4Us_Nrs)
-
-
-### Game over screen
+---
+#### Game over screen
 
 ![Game over](images/gameover.jpg?raw=true "Game over")
-
-### Wiring diagram
+---
+#### Wiring diagram
 
 ![Structure](images/structure.png?raw=true "How the game is built")
