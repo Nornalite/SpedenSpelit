@@ -18,7 +18,7 @@ Randomised buttons light up at an ever increasing pace and the player has to sla
 In addition we added a simple soundtrack, and eye lights and messages that ramp up as your score increases.
 
 ## Evidence
-Link to demo on YouTube: 
+Link to demo on YouTube below: 
 
 [![Demo](https://img.youtube.com/vi/NqiS4Us_Nrs/0.jpg)](https://www.youtube.com/watch?v=NqiS4Us_Nrs)
 
