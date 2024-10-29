@@ -4,7 +4,7 @@ Year 1 group project to build a reaction speed game based on the Finnish gamesho
 The project wasn't completed using GitHub/other version control tools, so here's a copy of the codes and a description for résumé purposes.
 
 ## Participants and contributions
-Me: LCD display module
+Me: LCD message and score display module
 
 [@KarolusPaulus](https://github.com/KarolusPaulus): Button module, audio implementation, laser cutter file
 
@@ -12,16 +12,23 @@ Me: LCD display module
 
 [@Tappivanukas2](https://github.com/Tappivanukas2): Game logic
 
+Soldering, component selection and laser cutting completed as a group.
+
 ## So what's this thing?
 Randomised buttons light up at an ever increasing pace and the player has to slap them in order (and avoid falling seriously behind). An incorrect press ends the game. The goal is to get as high a score as possible.
 
 In addition we added a simple soundtrack, and eye lights and messages that ramp up as your score increases.
 
 ## Evidence
-Link to demo on YouTube below: 
+### Demo on YouTube  
 
 [![Demo](https://img.youtube.com/vi/NqiS4Us_Nrs/0.jpg)](https://www.youtube.com/watch?v=NqiS4Us_Nrs)
 
+
+### Game over screen
+
 ![Game over](images/gameover.jpg?raw=true "Game over")
+
+### Wiring diagram
 
 ![Structure](images/structure.png?raw=true "How the game is built")
