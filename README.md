@@ -22,4 +22,6 @@ Link to demo on YouTube:
 
 [![Demo](https://img.youtube.com/vi/NqiS4Us_Nrs/0.jpg)](https://www.youtube.com/watch?v=NqiS4Us_Nrs)
 
-![Alt text](images/20231214_175141.jpg?raw=true "Game over")
+![Game over](images/gameover.jpg?raw=true "Game over")
+
+![Structure](images/structure.png?raw=true "How the game is built")
