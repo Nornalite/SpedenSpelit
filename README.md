@@ -6,3 +6,4 @@ The project wasn't completed using GitHub/other version control tools, so here's
 Me, [@KarolusPaulus](https://github.com/KarolusPaulus), [@nidacnr](https://github.com/nidacnr) and [@Tappivanukas2](https://github.com/Tappivanukas2).
 
 ## Pictures of the device
+[Alt text](images/20231214_175141.jpg?raw=true "Game over")
