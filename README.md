@@ -1,7 +1,7 @@
 # SpedenSpelit
 Year 1 group project to build a reaction speed game based on the Finnish gameshow Speden Spelit. 
 
-The project wasn't completed using GitHub/other version control tools, so here's a copy of the codes and a description for résumé purposes.
+The project wasn't worked on using GitHub or other version control tools, so here's a copy of the codes and a description for résumé purposes.
 
 ## Participants and contributions
 Me: LCD message and score display module
@@ -17,17 +17,21 @@ Soldering, component selection and laser cutting completed as a group.
 ## So what's this thing?
 Randomised buttons light up at an ever increasing pace and the player has to slap them in order (and avoid falling seriously behind). An incorrect press ends the game. The goal is to get as high a score as possible.
 
-In addition we added a simple soundtrack, and eye lights and messages that ramp up as your score increases.
+In addition we added a nice wooden box, a simple soundtrack, and some eye lights and messages that ramp up as your score increases.
 
 ## Evidence
-#### Demo on YouTube  
+#### Wiring diagram
 
-[![Demo](https://img.youtube.com/vi/NqiS4Us_Nrs/0.jpg)](https://www.youtube.com/watch?v=NqiS4Us_Nrs)
+![Structure](images/structure.png?raw=true "How the game is built")
+---
+#### Laser cutting
+
+![Box making its appearance](images/laatikon_rakennus2.jpg?raw=true "Box making its appearance")
 ---
 #### Game over screen
 
 ![Game over](images/gameover.jpg?raw=true "Game over")
 ---
-#### Wiring diagram
+#### Demo on YouTube  
 
-![Structure](images/structure.png?raw=true "How the game is built")
+[![Demo](https://img.youtube.com/vi/NqiS4Us_Nrs/0.jpg)](https://www.youtube.com/watch?v=NqiS4Us_Nrs)
